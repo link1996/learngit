@@ -1,4 +1,3 @@
 Git is a versuion control system
 Git is free software
-test1120
-test
+Git ha a mutable index called stage
